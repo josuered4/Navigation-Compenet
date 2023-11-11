@@ -25,6 +25,9 @@ a su relacion en tanto navegación, cabe mencionar que esto es mas visual de cod
     //dentro de este un navigation resource file
 
     res/navigation/main_graph.xml
+![Texto Alternativo]([https://github.com/josuered4/Navigation-Compenet/blob/master/Readme-Img/img-1.png](https://github.com/josuered4/Navigation-Compenet/blob/master/Readme-Img/img-1.png)
+
+
 
 <strong>Nota</strong><br>
 <li>Agregar solo los componentes de nav, y seleccionar el principal. </li>
