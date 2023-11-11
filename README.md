@@ -27,7 +27,7 @@ a su relacion en tanto navegación, cabe mencionar que esto es mas visual de cod
     res/navigation/main_graph.xml
 
 
-<picture><img src = "https://github.com/josuered4/Navigation-Compenet/blob/master/Readme-Img/img-1.png?raw=true" width = 50px></picture>
+<picture><img src = "https://github.com/josuered4/Navigation-Compenet/blob/master/Readme-Img/img-1.png?raw=true"></picture>
 
 <strong>Nota</strong><br>
 <li>Agregar solo los componentes de nav, y seleccionar el principal. </li>
