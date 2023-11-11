@@ -1,0 +1,6 @@
+com.example.practicaapp.test.app-annotation-experimental-1.3.0-0 C:\Users\josue\.gradle\caches\transforms-3\92b5a38703d98cb704df1a670da3c809\transformed\annotation-experimental-1.3.0\res
+com.example.practicaapp.test.app-core-1.5.0-1 C:\Users\josue\.gradle\caches\transforms-3\c5a1a9084d03e6d71de859f5e7fd7173\transformed\core-1.5.0\res
+com.example.practicaapp.test.app-androidTest-2 C:\Users\josue\Desktop\Proyectos\proyectos Kotlin\apps mobiles\PracticaApp\app\build\generated\res\resValues\androidTest\debug
+com.example.practicaapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\josue\Desktop\Proyectos\proyectos Kotlin\apps mobiles\PracticaApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.practicaapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\josue\Desktop\Proyectos\proyectos Kotlin\apps mobiles\PracticaApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.practicaapp.test.app-merged_res-5 C:\Users\josue\Desktop\Proyectos\proyectos Kotlin\apps mobiles\PracticaApp\app\build\intermediates\merged_res\debugAndroidTest
